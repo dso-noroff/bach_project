@@ -1,0 +1,242 @@
+id,name,category_id,price_pr_unit,co2,co2per_kg,weight,color
+1,Ami Sofa,4,592,249.1026681,4.1517,60.0,green
+2,Ami Stol,4,455,139.4389467,4.648,30.0,yellow
+3,April bench_ C,4,834,69.22994025,2.156,32.11,blue
+4,April Go bench,4,800,36.28678687,2.4063,15.08,blue
+5,April Go chair wood,4,928,29.64997998,2.6216,11.31,yellow
+6,April Go folding table wood,1,161,38.39147483,2.4705,15.54,pink
+7,April seat_ C,4,957,84.30918201,2.0107,41.93,purple
+8,April standard table_ C,1,631,111.3306155,2.0154,55.24,yellow
+9,Arena auditorium chair_ high backrest,4,977,60.48400877,5.8158,10.4,green
+10,Arena auditorium chair_ low backrest,4,776,55.90250636,5.8845,9.5,yellow
+11,Arena auditorium chair_ medium backrest,4,155,57.88009411,5.8465,9.9,white
+12,Ark Table,1,514,1359.7,24.4462,55.62,purple
+13,BA 360 balance board,4,319,5.46,2.703,2.02,brown
+14,Backapp 360,4,172,6.277359735,3.7815,1.66,green
+15,Backapp Hipp,4,499,15.05661442,3.3311,4.52,purple
+16,Backapp Smart Balance Chair,4,126,30.12888684,4.077,7.39,white
+17,Backapp Wheels,4,508,13.06099795,2.7399,4.767,white
+18,Berg benchtable,4,414,105.5563178,1.6932,62.34,red
+19,Bloc seat with armrest,4,930,220.5985289,2.3378,94.36,grey
+20,Bloc sun bench,4,375,303.0088206,2.248,134.79,black
+21,BMA Axia 2.2,4,998,77.3,3.9239,19.7,brown
+22,BMA Axia 2.5 korr,4,971,89.5,4.4417,20.15,blue
+23,BMA Axia Vision 24/7,4,746,79.8,3.6606,21.8,purple
+24,BO Chair with armrests,4,520,26.51257663,3.3141,8.0,red
+25,Bo Dining table 180 x 90 cm,1,453,45.36024125,1.1386,39.84,green
+26,Bobo highback chair,4,427,68.24515031,2.8435,24.0,brown
+27,Bordplate 140x80cm med høytrykkslaminat,1,992,16.43610154,0.8719,18.85,blue
+28,Buzz,1,992,244.1274163,2.9699,82.2,purple
+29,Cabinet_ MFC_ COMBO_ 2 levels w/hinged doors + 1 level open room,5,160,83.49783173,1.143,73.05,yellow
+30,Cabinet_ MFC_ open rooms_ 2 levels,5,558,57.41426963,1.6783,34.21,black
+31,Cabinet_ MFC_ w/hinged doors_ 2 levels,5,817,66.82884573,1.4192,47.09,red
+32,Cabinet_ MFC_ w/sliding doors_ W120_ 1 level,5,478,68.4860302,1.6435,41.67,white
+33,Cabinet_ MFC_ w/sliding doors_ W160_ 2 levels,5,605,95.78479935,1.0751,89.09,grey
+34,Cabinet_ MFC_ w/sliding doors_ W80_ 1 level,5,706,67.19166704,1.6542,40.62,yellow
+35,Camp chair - low back,4,932,138.3141485,8.8549,15.62,red
+36,Camp chair low back,4,145,85.4,4.5865,18.62,yellow
+37,Camp table 750x750 squirkle h400,1,263,61.9,3.84,16.12,black
+38,CERES nr 80 Bordplate 1800x900x22 smal magebue HVIT direktelaminat,1,972,44.2,1.8729,23.6,yellow
+39,City I Orginal - Four legs,4,619,11.83057632,2.4443,4.84,pink
+40,City I plastic four legs,4,118,17.35553603,3.7485,4.63,black
+41,City II plastic with sled base and armrests,4,494,24.10957269,3.9524,6.1,grey
+42,City orginal,4,792,9.1,1.7433,5.22,purple
+43,Clint - conference - high backrest,4,221,38.37590232,3.6204,10.6,black
+44,Clint Adjustable - low backrest,4,407,64.6,5.6174,11.5,green
+45,Clint Adjustable - low backrest and armrest,4,220,69.1,5.1955,13.3,grey
+46,Clint adjustable_ low back_ and wheels,4,157,36.28823026,3.0494,11.9,purple
+47,Clint stackable - sled base / high backrest,4,393,37.64447029,3.6548,10.3,yellow
+48,Clip 800 x 800,1,669,17.7,1.6698,10.6,blue
+49,Clip table 1200 x 450,1,813,22.8,1.9655,11.6,black
+50,Clip table 1200x800 - powdercoated base,1,480,57.14626254,3.5232,16.22,red
+51,Clip table 1800 x 800,1,952,30.3,1.4853,20.4,grey
+52,Coda Office Chair,4,528,47.2,6.7429,7.0,black
+53,Code Square module  bench,4,315,136.5299892,2.2831,59.8,pink
+54,Code Square planter 500L,4,341,285.3694028,3.1243,91.34,pink
+55,Cody stol med fire bein,4,918,13.97195931,0.9636,14.5,brown
+56,Cody stol med gasslift m/hjul,4,602,26.84785859,1.413,19.0,white
+57,Con II - high backrest,4,586,22.7,3.6032,6.3,white
+58,Con II - high backrest _ armrest,4,847,27.7,4.1343,6.7,white
+59,Con II unpholstered - high back and armrest,4,844,52.19460562,5.938,8.79,green
+60,Con III high back oak and armrests,4,110,41.09818733,4.3582,9.43,black
+61,Con III low back oak,4,239,33.16491383,3.8564,8.6,red
+62,Con IV high back upholstered,4,341,52.35158098,4.4441,11.78,red
+63,Crew Highback chair with upholstered armrest,4,531,84.9716084,4.9943,17.0138,green
+64,Cup table,1,722,16.3,2.3971,6.8,black
+65,D2,4,233,19.30944087,3.9813,4.85,purple
+66,Duun Highback Chair,4,232,20.8,1.0348,20.1,white
+67,Duun Highback Chair_ Bariatri,4,579,22.8,1.0247,22.25,blue
+68,Dwell - meet,4,430,66.77942277,4.5834,14.57,black
+69,Ergo Highback chair,4,555,55.85439153,3.7236,15.0,yellow
+70,Ergolift Angle høydejusterbart 2-beins system,1,679,68.73087268,3.3527,20.5,red
+71,ETS chair with armrest,4,639,25.21491657,3.1958,7.89,blue
+72,Factor Lite meeting table (1800x900) w/ linoleum,1,344,43.0,1.1697,36.76,purple
+73,Factor Lite meeting table (Ø800) Oak,1,223,14.5,0.8338,17.39,brown
+74,Favn M seating chair,4,671,17.3,2.4366,7.1,blue
+75,Favn seating chair,4,336,12.3,2.617,4.7,red
+76,Fjell chair / 5 arm base with weels / armrest,4,762,87.9,6.7615,13.0,red
+77,Fjording Highback chair,4,958,73.65031644,3.0061,24.5,grey
+78,Flexi cabinet F331,3,162,42.3,0.8198,51.6,purple
+79,Flexi cabinet F531,3,117,58.4,0.8111,72.0,grey
+80,Flexi tower cabinet F390,3,183,71.4,0.837,85.3,brown
+81,Foldable table 1800x800 (beech laminate),1,503,22.0,0.6657,33.05,blue
+82,Folk seat_ anchoring with base plate,4,846,77.35679624,2.0395,37.93,grey
+83,Folk table_ anchoring with base plate,1,257,107.6275986,2.0666,52.08,grey
+84,Gent Highback chair,4,558,59.19656987,3.9464,15.0,white
+85,giroflex 40,4,665,80.15570212,4.5803,17.5,green
+86,Grande bord med stålunderstell,1,675,26.14856351,0.7736,33.8,brown
+87,HÅG Capisco 8106,4,628,28.58958869,2.3628,12.1,pink
+88,HÅG Celi,4,829,14.26903094,2.9002,4.92,white
+89,HÅG Conventio Wing 9812,4,755,44.2,5.2123,8.48,red
+90,HÅG Creed 6004,4,505,60.80283193,4.3123,14.1,white
+91,HÅG Futu mesh 1100,4,878,54.5,3.3642,16.2,red
+92,HÅG SoFi,4,950,92.4,4.0,23.1,blue
+93,HÅG SoFi Mesh 7500,4,179,92.7,4.0658,22.8,yellow
+94,HÅG Tion 2100,4,183,39.40956278,3.6089,10.92,green
+95,IRIS school furniture 3A4 - w/ shelves_ HP laminate,3,994,60.0,0.8467,70.86,purple
+96,IRIS school furniture 5A4 - w/ shelves_ glass doors_ HP laminate,3,304,59.8,0.8514,70.24,pink
+97,Isabell bord Ø-70cm,1,828,6.112837832,0.663,9.22,blue
+98,Jackie chair,4,980,18.66859659,3.496,5.34,red
+99,Kavai Stol,4,677,48.73959746,2.437,20.0,grey
+100,Knekk stool,4,182,3.942317653,0.7885,5.0,red
+101,Knekk table,1,280,81.27563553,2.4855,32.7,blue
+102,Kvart 3000x1200 h740,1,128,309.8,3.6576,84.7,green
+103,Kvart table Ø800,1,425,141.3890098,9.217,15.34,grey
+104,Kvart table Ø800 RAW,1,712,132.1281603,9.7296,13.58,pink
+105,Lean 3-seater with back and armrest,4,926,88.2,1.9557,45.1,red
+106,Logic Edge table 160 x 80 cm with manually adjustable i-legs,1,178,44.5,1.3735,32.4,grey
+107,Logic Edge table 160 x 80 cm with manually adjustable t-legs,1,743,62.3,1.6015,38.9,brown
+108,Logic table 200 x 120 cm with electrically driven adjustable legs,1,309,106.6,1.7737,60.1,blue
+109,Misto pouf,4,657,24.2391123,3.656,6.63,blue
+110,Modus Bariatric Chair,4,498,25.7866813,2.6996,9.552,blue
+111,Munch bench 3-seat,4,884,110.3513862,3.1243,35.32,blue
+112,Munch chair,4,914,35.71274032,3.1217,11.44,purple
+113,Nell chair without arm,4,456,18.72896011,3.3084,5.661,green
+114,Nexus 3-seater,4,452,95.0,2.375,40.0,red
+115,Nordic Light Table 120X45,1,668,14.1,1.3429,10.5,purple
+116,Note shelf 1600,5,400,38.87720525,0.9943,39.1,white
+117,Note shelf 2400,5,791,55.14746303,0.999,55.2,red
+118,OFFECCT Carry On,4,169,23.70209133,4.1951,5.65,white
+119,OFFECCT Nomole_ Bar stool,4,907,36.46406648,4.1578,8.77,grey
+120,OFFECCT Pauline_ Easy chair,4,112,70.96717372,1.6757,42.35,black
+121,OFFECCT SOUNDSTICKS,2,982,6.377201113,6.6429,0.96,yellow
+122,Office furniture_ Factor Table 3600x1200x26mm,1,258,119.4,1.1536,103.5,blue
+123,Office furniture_ Frontpanel 1600x500mm_ Bøk,3,597,7.4,1.0,7.4,green
+124,Office furniture_ frontpanel metal 1980x600mm w/brackets,3,346,5.5,0.4331,12.7,green
+125,Office furniture_ Optima table ø1200,1,530,45.6,0.8604,53.0,white
+126,Office furniture_ Sector table 1600x800mm with T-foot,1,577,32.4,1.0693,30.3,green
+127,Office furniture_ Sector table 2400x1010/750mm with V-foot,1,458,59.6,1.0311,57.8,black
+128,Office furniture_ Sector table 900x900x26mm_ one column w/X-foot,1,524,20.8,1.0246,20.3,yellow
+129,Office furniture_ Sector table ø800x26mm_ one column w/Y-foot,1,918,16.9,1.0368,16.3,purple
+130,Office furniture_ Table screen 1700x600x13mm_ birch,3,164,12.3,1.2947,9.5,red
+131,Office furniture_ Titan 2A4 w/sliding doors - Oak,3,317,44.8,0.8784,51.0,green
+132,Office furniture_ Titan 2A4 w/two hinged doors- HPL,3,849,32.1,0.9817,32.7,black
+133,Office furniture_ Titan 4A4 w/two hinged doors,3,739,58.1,1.0017,58.0,grey
+134,Office furniture_ Titan drawer -Oak veneer,3,145,22.8,1.1287,20.2,green
+135,Office furniture_ Vesta Acustic floor screen_ 2 x T-foot,3,567,50.4,3.0732,16.4,grey
+136,Office furniture_ Vesta Acustic table screen w/brackets,3,256,23.1,2.1389,10.8,green
+137,Office furniture_Titan cabinet 5A4 - w/ shelves - HP laminate,3,469,48.0,1.0435,46.0,blue
+138,One UP three seat sofa upholstered with backrest*,4,867,133.7,2.863,46.7,yellow
+139,Optima conference table 2000*1200,1,851,67.57837165,1.0587,63.83,red
+140,Optima conference table 2000*1200 white HPL,1,748,72.4298885,1.1347,63.83,white
+141,Optima conference table 4000*1200,1,994,214.467824,1.0267,208.89,green
+142,Optima conference table 4000*1200 HPL grey,1,496,240.0028953,1.1489,208.89,black
+143,Optima conference table 6000x1200 grey HPL,1,661,388.8667973,1.8616,208.89,red
+144,Otis Chair,4,131,134.5256426,3.2053,41.97,brown
+145,Otis Ottoman,4,401,68.82347314,3.9921,17.24,yellow
+146,Otis Sofa,4,823,225.0952763,3.5843,62.8,red
+147,Pan 3-seater,4,779,32.5,1.0331,31.46,brown
+148,Pan Chair with armrest,4,215,9.7,1.001,9.69,white
+149,Pan Dining table 140 x 80 cm,1,564,18.9,0.7065,26.75,grey
+150,Pan Footstool,4,610,34.77622692,4.1107,8.46,red
+151,Pan Highback Chair,4,312,14.7,0.9429,15.59,pink
+152,Pan Table Ø70,1,733,8.7,0.7178,12.12,green
+153,Pivot 3-seater without armrest,4,994,79.5,3.2582,24.4,blue
+154,Pivot 3-seater without armrest,4,417,79.5,3.2582,24.4,purple
+155,Pivot Cave 3-seater without armrest,4,433,86.6,2.1759,39.8,white
+156,Planet chair,4,615,80.60671512,5.1804,15.56,white
+157,Pond beam 2 seat,4,121,176.0989872,17.3258,10.164,white
+158,Pond beam 4 seat,4,402,303.2311053,11.0709,27.39,pink
+159,Pond with four legs,4,663,17.23982376,4.0093,4.3,brown
+160,Pond with laminated wood base,4,345,11.63052993,2.6313,4.42,red
+161,Pond with sled base and armrests,4,507,21.80813463,4.0385,5.4,pink
+162,Popcorn chair,4,905,20.0581506,3.6872,5.44,black
+163,Popcorn chair fully upolsthered,4,310,30.72097652,4.1854,7.34,black
+164,Popcorn chair with seat and back cushion,4,108,26.57850215,4.064,6.54,pink
+165,Porto bench E_ Free-standing,4,927,126.1564436,1.5495,81.42,grey
+166,Profim AccisPro 150SFL,4,265,78.64401726,3.4922,22.52,pink
+167,Profim LightUp 250SL,4,985,83.00575156,5.0429,16.46,purple
+168,Profim NORMO,4,221,29.14930711,4.0429,7.21,brown
+169,Profim REVO collection,4,880,96.70524962,3.2715,29.56,black
+170,Profim Xenon swivel,4,117,58.92894988,2.3301,25.29,grey
+171,Public seating chair,4,111,10.3,2.4524,4.2,grey
+172,Public seating chair with 4 legs,4,569,10.3,2.4524,4.2,black
+173,R-10 Low Office Chair,4,314,61.5,4.3007,14.3,blue
+174,R-20 Pro Office Chair,4,451,93.0,4.0086,23.2,brown
+175,R-48 Seating chair,4,487,10.9,2.9459,3.7,blue
+176,R-80 Table,1,413,40.3,1.7416,23.14,blue
+177,RBM Ana 4340 - Graphite black edition with recycled plastic shell,4,625,13.91657608,3.7141,3.747,black
+178,RBM Noor 6050,4,612,15.66258886,3.0144,5.196,purple
+179,RBM Noor 6050/55 & RBM 6060/65-6070/75-6080/85-6090/95,4,500,16.3,3.1346,5.2,red
+180,RBM Noor 6060,4,116,19.14421957,2.9161,6.565,brown
+181,RBM Noor 6080,4,479,19.54616925,3.769,5.186,brown
+182,RBM Noor 6085,4,821,14.03501719,2.765,5.076,pink
+183,RBM Noor Up 6090,4,396,21.84624398,2.8225,7.74,green
+184,RBM Noor Up 6095,4,223,16.33509192,2.1381,7.64,blue
+185,RBM Standard klappbord 4680 120x45x2_2cm with black legs,4,186,22.3,1.6767,13.3,white
+186,RH Focus,4,297,197.4368275,7.0162,28.14,red
+187,RH New Logic_ including variants and options,4,935,95.5,3.8277,24.95,black
+188,RH Support 4501 & other variants,4,789,39.3,3.6729,10.7,red
+189,Rio chair,4,108,13.6,3.4872,3.9,pink
+190,Rio Junior high seating chair,4,784,13.9,3.3902,4.1,red
+191,Rio Z chair,4,653,19.6,3.3793,5.8,green
+192,Root table 1140x630 h45,1,484,24.6,1.8358,13.4,red
+193,Root table 600x600 h 360,1,197,10.7,1.8136,5.9,red
+194,S-1500,4,580,8.7,2.0714,4.2,pink
+195,Salina 3-seater,4,629,120.6,2.5125,48.0,purple
+196,Scandia JR,4,726,21.54582607,4.2247,5.1,pink
+197,Scandia Nett,4,734,27.23193055,3.404,8.0,pink
+198,Scandia Senior,4,395,27.23193055,2.4756,11.0,pink
+199,Senso 3 seat high backrest,4,205,427.7711228,5.4039,79.16,yellow
+200,Senso 3 seat low backrest,4,561,364.8764891,6.6305,55.03,green
+201,Senso 3 seat without backrest,4,323,190.5528056,6.6072,28.84,black
+202,Sid Stacking chair,4,701,33.26350364,4.1579,8.0,blue
+203,Silent Folding Chair,4,926,12.4,2.48,5.0,purple
+204,Sit/stand desk Series[P],1,814,82.65596731,1.6869,49.0,brown
+205,Sitting bench 240 cm,4,500,32.0,0.8443,37.9,brown
+206,Stripes bench semicircle_ closed module,4,184,235.8732369,2.2578,104.47,white
+207,Study table 90 x 70 cm,1,199,40.1,1.2042,33.3,green
+208,Table screen_ T20_ MDF & rockwool_ 80X65,1,348,23.52615583,5.2164,4.51,brown
+209,Table screen_ T20_ MFC_ 80X65,1,304,25.64720903,3.2966,7.78,pink
+210,Table screen_ T40_ wood frame & rockwool_ 70X65,1,269,23.44855636,3.9146,5.99,green
+211,Table screen_ T40_ wood frame & rockwool_ 75X50,1,412,21.07888778,4.3106,4.89,white
+212,Tabletop_ MFC_ 40 X 60 X 2_5,1,132,16.57863617,4.0734,4.07,red
+213,Tabletop_ MFC_ 80 X 80 X 2_5,1,459,24.610136,2.2272,11.05,blue
+214,Tabletop_ MFC_ COMBI_ 80/60_ 160 X 120 X 2_5,1,238,32.30990626,1.0453,30.91,black
+215,Tabletop_ MFC_ round_ Ø70 X 2_5,1,589,18.00281303,2.8129,6.4,white
+216,Tabletop_ MFC_ small arc_ 140 X 80 X 2_5,1,587,24.50790915,1.4383,17.04,pink
+217,Task Chair 6000/8000,4,520,79.39822246,3.964,20.03,brown
+218,Task Chair Claro,4,698,72.66979783,5.0818,14.3,black
+219,Task Chair Plus[6]/[8],4,389,81.28725302,4.4395,18.31,purple
+220,Task chair Salida,4,684,118.4186539,6.9781,16.97,black
+221,Tellus nr 70 Bordplate 1600x800x26 bred magebue HVIT,1,141,44.2,2.0359,21.71,yellow
+222,Tellus tabletop 1600x800x19 MDF Valchromat Grey SLG,1,165,19.04491202,1.1978,15.9,red
+223,Timeout 3 - seater with armrests,4,722,105.644205,2.3016,45.9,pink
+224,Tind 1000 High,4,532,194.7494883,4.9834,39.08,brown
+225,Tind 1000 Low,4,533,137.9622098,5.1944,26.56,purple
+226,Tind 1500 High,4,110,247.5357046,4.9626,49.88,pink
+227,Tind 1500 Low,4,783,188.0062551,5.2137,36.06,yellow
+228,Tind 500 High,4,713,126.9802104,6.33,20.06,pink
+229,Tind 500 Low,4,777,92.50470119,5.3317,17.35,pink
+230,Transit 24 four seat bench,4,900,586.6,8.6012,68.2,green
+231,Transit 24 four seat sofa,4,267,798.8,8.8795,89.96,purple
+232,Transit 24 three seat sofa,4,259,683.1,9.1926,74.31,red
+233,Transit 24 three seat sofa side table,4,604,768.3,8.5882,89.46,brown
+234,Trillo Pro 20ST,4,768,61.05688017,5.7874,10.55,purple
+235,Twin chair,4,975,22.1,1.4313,15.44,white
+236,UP - three seat sofa with backrest,4,244,142.0505724,2.9749,47.75,red
+237,UP three seat sofa without backrest,4,545,72.0,2.1884,32.9,pink
+238,Urban bicycle post_ C,6,538,31.37329536,3.1217,10.05,black
+239,Vroom bench straight end,4,692,147.8800279,2.5064,59.0,grey
+240,Vroom bicycle rack small_ C,6,766,21.48868151,3.0138,7.13,yellow
+241,Vroom table,1,570,215.1151695,2.1183,101.55,green

@@ -1,0 +1,4 @@
+id,transport,avg_emission_tkm,avg_emission_kg_km,fuel,25th_percentile,50th_percentile,75th_percentile
+1,Light Duty GAS,2712.7,2.7127,Gasoline,675.55588815,1137.8270951499999,1500.28179295
+2,Light Duty DSL,2744.7,2.7447,Diesel,683.52499215,1151.2493191499998,1517.97966495
+3,Heavy Duty DSL,89.6,0.0896,Diesel,22.3134912,37.58222719999999,49.5540416
